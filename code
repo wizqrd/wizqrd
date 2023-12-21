@@ -1,7 +1,7 @@
 print('Hello World')
 
 
-boat = input('Runaway Taxi')
+boat = input('What is the best sailboat in the world?')
 sailNumber = 5393
 
 print(boat, 'Is the the best sailboat in the world.')
