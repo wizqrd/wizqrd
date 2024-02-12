@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @splonk1
-- 👀 I’m interested in Front End and Back End Web and Application Development.
-- 🌱 I’m currently learning HTML and JavaScript
-- 💞️ I’m looking to collaborate on Web Design
-- 📫 How to reach me----
+- Hi, I'm developing a year 12 major project.
 
 <!---
 splonk1/splonk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
