@@ -1,6 +1,6 @@
 - Hi, I'm developing a year 12 major project.
 - <h1>Update Logs</h1>
-- <h2>Login system was created, which uses cbf files to store password and user info, and bycrypt to encrypt passwords.</h2>
+- <h2>Login system was created, which uses csv files to store password and user info, and bycrypt to encrypt passwords. Example, XIXIbeta, $2b$12$fxGkFgS/8dkGGueYFlKCq.wgaNyeoozducXgrRk1oZiEaTBPboHYG</h2>
 
 
 <!---
