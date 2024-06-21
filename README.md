@@ -6,7 +6,6 @@
 
 <h3 align="center">Year 11 Software Developer</h3>
 
-<br/>
 
 <div align="center">
  
@@ -17,7 +16,7 @@
 
 ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
- </div>
+ 
  
 <!-- <><div align="center"> 
 <a href="mailto:pedro.sales.muniz@gmail.com">
@@ -28,20 +27,14 @@
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
-</div>
 
-<br/>
-<hr/>
 
 <div align="center">
   <h2> My Contributions And Commits! </h2>
