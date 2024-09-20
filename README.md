@@ -25,7 +25,7 @@
 - **Bootleg OS**: An operating system designed for efficiency and customizability.
 
 
-![Leetcode Stats](https://leetcard.wizqrd.cool/JacobLinCool?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/wizqrd?theme=dark)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/splonkz/splonkz/output/github-contribution-grid-snake.svg" />
 
