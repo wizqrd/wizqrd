@@ -20,17 +20,9 @@
     |------"--------------------------------------"-------|
     `-----------------------------------------------------'
 
-
-
-Aspiring developer passionate about coding, learning, and creating. Currently working on projects related to programming languages, operating systems, and software development.
-
 ## What I'm working on:
 - **Cascade**: A new general-purpose coding language.
 - **Bootleg OS**: An operating system designed for efficiency and customizability.
-
-## Get in touch:
-- **GitHub**: [wizqrd](https://github.com/wizqrd)
-
 
 
 ![](https://leetcard.jacoblin.cool/wizqrd?ext=heatmap)
